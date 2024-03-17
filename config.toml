@@ -53,9 +53,9 @@ publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
 
 
-[params.author]
-  name = "CHANGE SITE AUTHOR"
-  about = "CHANGE SITE AUTHOR ABOUT"
+#[params.author]
+#  name = "Parker Anderson"
+#  about = "CHANGE SITE AUTHOR ABOUT"
 
 [blackfriday]
   # hrefTargetBlank = true
