@@ -6,7 +6,7 @@
 
 baseURL = "https://helamanwarrior.github.io/mission-website/"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 #theme = "hermit-v2"
 
 #[languages]
