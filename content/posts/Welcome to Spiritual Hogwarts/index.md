@@ -14,3 +14,7 @@ The night before the General Conference Sunday sesh, our dorm had a suuppperr in
 MTC so far has been pretty good, the first few days were rough, but now we're in the groove it's not too bad. My only complaint is the absolutely massive cafeteria lines. Apparently we are the largest group that's come into the MTC since 2013. So there's waaayyy more people, after you wait 30 to 40 minutes in line, finding seats is the next nightmare. But other than that, the whole MTC experience has been pretty good. Our amazing teachers and district really make the whole experience so much better.
 
 Elder Coles and Madsen both have harmonicas, and there's like a whole harmonica crew in the MTC! Super epic stuff! We were talking about instruments that we can play, and my comp said he could play the kazoo. So I made a special request to my parents for kazoos, annnnddd now we got a kazoo harmonica band!! Shout out to my epic parents for all the amazing loot boxes sent to us!! You guys are so awesome! Best family I could ever ask for! Wish I could talk to you guys more.
+
+![](20230930_094113.jpg)
+![](20230930_155717.jpg)
+![](1000000148-01.jpeg)

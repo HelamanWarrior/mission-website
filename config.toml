@@ -88,8 +88,8 @@ expiryDate = ["expiryDate"]
   # images = [""]
   themeColor = "#494f5c"
 
-  #homeSubtitle = "CHANGE ME HOME SUBTITLE"
-  footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
+  homeSubtitle = "Hey everyone! My name is Parker Anderson, I'm from Farr West Utah; I'm a missionary for the Church of Jesus Christ of Latter-Day Saints! Serving in the Vancouver Canada mission! This blog is a online version of my weekly emails that are sent every week to friends and family. If you're reading this blog and want to learn more about The Church of Jesus Christ of Latter-Day Saints, feel free to shoot me an email!"
+  footerCopyright = "Parker's Mission"
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
