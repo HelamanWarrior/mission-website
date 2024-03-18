@@ -3,7 +3,7 @@ title: "Welcome to Spiritual Hogwarts"
 date: 2023-10-06
 ---
 
-Welcome to Spiritual Hogwarts!! This week so far has been absolutely crazy! So sorry for missing my last email, time works differently in the MTC. í ½í¸‚ The whole mission thing didn't feel real till I was being dropped off. I'm super sad to be leaving my family, but I know that it's for a much greater purpose.
+Welcome to Spiritual Hogwarts!! This week so far has been absolutely crazy! So sorry for missing my last email, time works differently in the MTC. ðŸ˜‚ The whole mission thing didn't feel real till I was being dropped off. I'm super sad to be leaving my family, but I know that it's for a much greater purpose.
 
 Our district is S tier!! Best district we could ever ask for! Our dorm goes wild, we have so many one liners and inside jokes! Look out for them peepin Wizards from Isaiah! Me and my comp are droppin quotes from Thor Ragnorok, Lego Batman, and the Dark Knight. Just like the famous words of Joker, "It's not about the money, it's about sending a message," President Nelson declared that paying tithing is "not about the money." So that's pretty good!
 
